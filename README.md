@@ -1,9 +1,9 @@
 # Audits
 This repository contains all the audits I have conducted, including private/shadow audits, contest submissions, and bug bounty.
 ### Summary
-| Protocol   | Type           | Platform   | Category   | Rank 🏆    | Findings 🐛  |
+| Protocol   | Type           | Platform   | Category   | Rank 🏆    | Findings/Report 📄 |
 |:----------:|:--------------:|:----------:|:----------:|:----------:|:----------:|
-| [StarknetID](https://starknet.id/) | Private/Shadow | - | Starknet Naming Service | - |  [1L](https://github.com/anubhav11156/Audits/blob/main/Private/Shadow/StarknetID_2024_Subsix.pdf)|
+| [StarknetID](https://starknet.id/) | Private/Shadow | - | Starknet naming service | - |  [1L](https://github.com/anubhav11156/Audits/blob/main/Private/Shadow/StarknetID_2024_Subsix.pdf)|
 | [ArkProject](https://www.arkproject.dev/) | Contest | CodeHawks | NFT Bridge | [10](https://codehawks.cyfrin.io/c/2024-07-ark-project/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard) | [2H](https://github.com/anubhav11156/Audits/blob/main/Contests/ArkProject_August_2024.md) |
 ### Contacts
 - Twitter : [@subsix_](https://x.com/subsix)
