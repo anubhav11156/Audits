@@ -6,8 +6,8 @@
 ## Findings Summary
 | Severity | Tittle | 
 |:----------:|:--------------:|
-| High-03 | DoS in white_list_collection() when de-whitelisting L2 collections if more than 2 collections exists in the list|
-| High-04 | NFT contract deployed by L1 Bridge cannot be upgraded, nor can its ownership be transferred|
+| [High-03](https://github.com/anubhav11156/Audits/blob/main/Contests/ArkProject_August_2024.md#-high-03--dos-in-white_list_collection-when-de-whitelisting-l2-collections-if-more-than-2-collections-exists-in-the-list) | DoS in white_list_collection() when de-whitelisting L2 collections if more than 2 collections exists in the list|
+| [High-04](https://github.com/anubhav11156/Audits/blob/main/Contests/ArkProject_August_2024.md#-high-04--nft-contract-deployed-by-l1-bridge-cannot-be-upgraded-nor-can-its-ownership-be-transferred) | NFT contract deployed by L1 Bridge cannot be upgraded, nor can its ownership be transferred|
 ## Findings 
 ###  [ High-03 ] DoS in white_list_collection() when de-whitelisting L2 collections if more than 2 collections exists in the list
 #### Summary
